@@ -116,4 +116,3 @@ sleepstudy %>%
   transition_states(Subject, 1, 1) +
   theme_minimal()
 ```
-
